@@ -1,0 +1,108 @@
+body
+{
+	padding-top:150px;
+	background-image:url(bg1.gif);
+	background-size:cover;
+	color:white;
+	font-family:cursive;
+}
+
+	.login_div1 , .login_div2
+	{
+		background: red;
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+	}
+
+
+#player1_name , #player2_name
+{
+	display: inline-block;
+	margin-left: 20px;
+}
+#word
+{
+	width: 60%;
+}
+#word_display
+{
+	letter-spacing: 5px;
+}
+#output
+{
+background: coral;
+border-radius: 10px;
+border-top: 10px solid #AA4465;
+padding: 10px;
+float: none;
+text-align: left;
+}
+         
+.btn-grad {
+	background-image: linear-gradient(to right, #4776E6 0%, #8E54E9  51%, #4776E6  100%);
+	margin: 10px;
+	padding: 15px 45px;
+	text-align: center;
+	text-transform: uppercase;
+	transition: 0.5s;
+	background-size: 200% auto;
+	color: white;            
+	box-shadow: 0 0 20px #eee;
+	border-radius: 10px;
+	display: block;
+  }
+
+  .btn-grad:hover {
+	background-position: right center; /* change the direction of the change here */
+	color: #fff;
+	text-decoration: none;
+  }
+
+           
+  .btn-grad2 {
+	background-image: linear-gradient(to right, #360033 0%, #0b8793  51%, #360033  100%);
+	margin: 10px;
+	padding: 15px 45px;
+	text-align: center;
+	text-transform: uppercase;
+	transition: 0.5s;
+	background-size: 200% auto;
+	color: white;            
+	box-shadow: 0 0 20px #eee;
+	border-radius: 10px;
+	display: block;
+  }
+
+  .btn-grad2:hover {
+	background-position: right center; /* change the direction of the change here */
+	color: #fff;
+	text-decoration: none;
+  }
+
+           
+  .btn-grad3 {
+	background-image: linear-gradient(to right, #7b4397 0%, #dc2430  51%, #7b4397  100%);
+	margin: 10px;
+	padding: 15px 45px;
+	text-align: center;
+	text-transform: uppercase;
+	transition: 0.5s;
+	background-size: 200% auto;
+	color: white;            
+	box-shadow: 0 0 20px #eee;
+	border-radius: 10px;
+	display: block;
+  }
+
+  .btn-grad3:hover {
+	background-position: right center; /* change the direction of the change here */
+	color: #fff;
+	text-decoration: none;
+  }
+ 
+#input_check_box
+{
+background-color:midnightblue;
+} 
+ 
